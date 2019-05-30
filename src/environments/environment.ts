@@ -5,13 +5,7 @@
 export const environment = {
    production: false,
    fireConfig: {
-    apiKey: 'AIzaSyD573MqEFXIon2BfW6h0jziN5JlIb89KR4',
-    authDomain: 'fir-crud-9c632.firebaseapp.com',
-    databaseURL: 'https://fir-crud-9c632.firebaseio.com',
-    projectId: 'fir-crud-9c632',
-    storageBucket: 'fir-crud-9c632.appspot.com',
-    messagingSenderId: '651010315851',
-    appId: '1:651010315851:web:ef75a4b5cd4e9f18'
+   
   }
 };
 
